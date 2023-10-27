@@ -167,3 +167,13 @@ footer span {
 	color: #45610E;
 	font-size: .875rem;
 }
+
+/***** MEDIA QUERIES *****/
+	
+@media all and (min-width: 768px) {
+    /* Tablet styles here */
+}
+ 
+@media all and (min-width: 1200px) {
+    /* Desktop styles here */
+}
